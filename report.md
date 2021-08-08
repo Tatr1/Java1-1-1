@@ -11,7 +11,7 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные https://tools.seo-zona.ru/credit-card-generator.html:
 
 * 4412467406732034 (Visa)
 * 5558971803481396 (MasterCard)
